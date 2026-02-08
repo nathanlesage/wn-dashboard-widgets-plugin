@@ -1,2 +1,10 @@
 '1.0.0':
     - 'First version of DashboardWidgets'
+'1.0.1':
+    - 'Fixed installation directory'
+'1.1.0':
+    - 'Removed debug code'
+    - 'Improved README instructions'
+    - 'Added German localization'
+'1.1.1':
+    - 'Amend changelog'

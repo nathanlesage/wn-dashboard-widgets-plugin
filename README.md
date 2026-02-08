@@ -7,6 +7,10 @@ This plugin provides a set of widgets that you can view on your Winter CMS admin
 dashboard. Once this plugin is installed, you can add and configure its widgets
 on your dashboard like any other widget.
 
+<center>
+<img src="screenshot.png" alt="A screenshot of the three initial widgets, cache, maintenance, and time.">
+</center>
+
 ## Widgets
 
 Currently, the following widgets are contained:

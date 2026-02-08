@@ -23,10 +23,12 @@ Currently, the following widgets are contained:
 
 ## Setup
 
-To install this plugin into your Winter CMS page, install it via Composer:
+To install this plugin into your Winter CMS page, install it via Composer and
+enable it:
 
 ```bash
 composer require wn-dashboard-widgets-plugin
+php artisan winter:up
 ```
 
 ## Configuration

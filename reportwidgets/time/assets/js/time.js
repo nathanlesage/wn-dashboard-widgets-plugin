@@ -61,15 +61,6 @@ function tick () {
     // Same timezone
     equalElem.style.display = ''
   }
-
-  const localOffset = local.offset
-  const remoteOffset = remote.offset
-
-  const isAhead = remoteOffset > localOffset
-
-  console.log({ localOffset, remoteOffset, isAhead })
-
-  if (isAhead) {}
 }
 
 document.addEventListener('DOMContentLoaded', () => {

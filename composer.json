@@ -1,0 +1,24 @@
+{
+    "name": "hendrikerz/wn-dashboard-widgets-plugin",
+    "type": "winter-plugin",
+    "description": "A comprehensive plugin to provide a basic set of widgets for the Winter CMS admin dashboard.",
+    "homepage": "https://github.com/nathanlesage/wn-dashboard-widgets-plugin",
+    "keywords": ["winter cms", "winter", "plugin", "dashboard", "widgets"],
+    "license": "AGPL-3.0",
+    "authors": [
+        {
+            "name": "Hendrik Erz",
+            "email": "hendrik@zettlr.com",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/nathanlesage/wn-dashboard-widgets-plugin/issues",
+        "source": "https://github.com/nathanlesage/wn-dashboard-widgets-plugin"
+    },
+    "require": {
+        "php": ">=8.1",
+        "winter/wn-backend-module": "^1.2.8|dev-develop",
+        "composer/installers": "~1.0"
+    }
+}
